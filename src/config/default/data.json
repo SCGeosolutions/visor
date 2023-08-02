@@ -112,6 +112,17 @@
       "servicio": "wms",
       "version": "1.3.0",
       "host": "https://wms.ign.gob.ar/geoserver/modelos-digitales-elevaciones/wms"
+    },
+    {
+      "type": "wmslayer",
+      "peso": 1,
+      "nombre": "Aeródromos y aeropuertos",
+      "short_abstract": "Aeródromos y aeropuertos de Santa Cruz",
+      "class": "",
+      "seccion": "ss_transp:aeropuertos",
+      "servicio": "wms",
+      "version": "1.3.0",
+      "host": "https://situ.santacruz.gob.ar/geoserver/ows?service=wms"
     }
   ],
   "template": "ign-geoportal-basic"
