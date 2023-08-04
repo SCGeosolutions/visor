@@ -122,7 +122,7 @@
       "seccion": "ss_transp:aeropuertos",
       "servicio": "wfs",
       "version": "2.0.0",
-      "host": "https://dservices6.arcgis.com/ymMBXcj8o715K8WC/arcgis/services/Limite_Provincia/WFSServer?service=wfs&request=getcapabilities"
+      "host": "https://situ.santacruz.gob.ar/geoserver/cagrop/wms"
     }
   ],
   "template": "ign-geoportal-basic"
