@@ -120,9 +120,9 @@
       "short_abstract": "Aeródromos y aeropuertos de Santa Cruz",
       "class": "",
       "seccion": "ss_transp:aeropuertos",
-      "servicio": "wms",
-      "version": "1.3.0",
-      "host": "https://situ.santacruz.gob.ar/geoserver/ss_transp/wms"
+      "servicio": "wfs",
+      "version": "2.0",
+      "host": "https://dservices6.arcgis.com/ymMBXcj8o715K8WC/arcgis/services/Limite_Provincia/WFSServer?service=wfs&request=getcapabilities"
     }
   ],
   "template": "ign-geoportal-basic"
