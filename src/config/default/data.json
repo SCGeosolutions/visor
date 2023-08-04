@@ -122,7 +122,7 @@
       "seccion": "ss_transp:aeropuertos",
       "servicio": "wfs",
       "version": "2.0.0",
-      "host": "https://situ.santacruz.gob.ar/geoserver/cagrop/wms"
+      "host": "https://wms.ign.gob.ar/geoserver/ign/wms?service=WMS&version=1.1.0&request=GetMap&layers=ign%3Apuntos_de_transporte_aereo_GB005&bbox=-72.2277658959999%2C-54.839513795%2C-54.476265065%2C-22.1510049899999&width=417&height=768&srs=EPSG%3A4326&styles=&format=application/openlayers"
     }
   ],
   "template": "ign-geoportal-basic"
