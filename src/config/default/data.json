@@ -114,14 +114,14 @@
       "host": "https://wms.ign.gob.ar/geoserver/modelos-digitales-elevaciones/wms"
     },
     {
-      "type": "wmslayer",
+      "type": "wfslayer",
       "peso": 1,
       "nombre": "Aeródromos y aeropuertos",
       "short_abstract": "Aeródromos y aeropuertos de Santa Cruz",
       "class": "",
       "seccion": "ss_transp:aeropuertos",
       "servicio": "wfs",
-      "version": "2.0",
+      "version": "2.0.0",
       "host": "https://dservices6.arcgis.com/ymMBXcj8o715K8WC/arcgis/services/Limite_Provincia/WFSServer?service=wfs&request=getcapabilities"
     }
   ],
